@@ -1,0 +1,4 @@
+node_modules
+temp
+assets/qr/last.qr
+.wwebjs_auth
